@@ -990,11 +990,11 @@
         "network": "NET"
     },
     "argocd": {
-        "apps": "Apps",
-        "synced": "Synced",
-        "outOfSync": "Out Of Sync",
+        "apps": "Programme",
+        "synced": "Gesinkroniseer",
+        "outOfSync": "Nie Gesinchroniseer Nie",
         "healthy": "Gesond",
-        "degraded": "Degraded",
+        "degraded": "Gedegradeer",
         "progressing": "Progressing",
         "missing": "Vermis",
         "suspended": "Suspended"
